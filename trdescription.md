@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @therealusernamedotcom!
-- 👀 I’m interested in coding, ROBLOX, games, etc.
-- 🌱 I’m currently learning Python.
-- 💞️ I've been looking for good coding websites, and I think github might be the one!
-- 📫 Thanks for reading!
